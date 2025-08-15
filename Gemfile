@@ -27,7 +27,7 @@ gem 'simple_form' # A gem to easily build forms
 
 group :development, :test do
   # Use 'rspec-rails' as a testing framework.
-  gem 'rspec-rails', '~> 6.0'
+  gem 'rspec-rails', '~> 8.0'
 end
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
